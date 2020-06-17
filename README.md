@@ -2,4 +2,3 @@
 ```
 setxkbmap -model pc105 -layout gb -variant mac
 ```
-
